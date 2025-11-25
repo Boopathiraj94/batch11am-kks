@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* p{
+    background-color: aquamarine;
+    display: inline;
+    width: 40000000000000px;
+    height: 400000000000000000000px;
+    padding: 10px;
+    margin: 20px;
+} */
+
+span{
+    border: 2px solid;
+    background: darkblue;
+    width: 100px;
+    height: 100px;
+    /* display: block; */
+    display: inline-block;
+}
